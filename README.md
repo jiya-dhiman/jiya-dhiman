@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Jiya Dhiman
+
+- I'm currently a sophmore at Purdue
+- CS Major
+- Looking for internship opportunities!
 
 <!--
 **jiya-dhiman/jiya-dhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
