@@ -1,20 +1,15 @@
-## Hi, I'm Jiya Dhiman
+# Hi, I'm Jiya!
 
-- I'm currently a sophmore at Purdue
-- CS Major
-- Looking for internship opportunities!
+Currently, I'm looking for **Summer 2027 internship opportunities**.
 
-<!--
-**jiya-dhiman/jiya-dhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Portfolio](https://jiya-dhiman.github.io/) &nbsp;&bull;&nbsp; [Resume](https://jiya-dhiman.github.io/resume.pdf) &nbsp;&bull;&nbsp;  [LinkedIn](https://www.linkedin.com/in/jiya-dhiman-4bb05b312/) &nbsp;&bull;&nbsp;  [Email](mailto:jdhiman@purdue.edu)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+* **C.O.R.E. Lab:** Working as a research intern designing and developing user experience web interfaces like the *Heads Up* website.
+* **Campus Leadership:** Mentoring incoming students as a CS Bridge TA, serving as a College of Science Ambassador, and building with the InnovateHer development team.
+* **Building Things:** Creating full-stack projects, computer vision tools, and interactive applications.
+---
+
+Check out my work on my [projects page](https://jiya-dhiman.github.io/projects.html)!
