@@ -7,8 +7,9 @@ Currently, I'm looking for **Summer 2027 internship opportunities**.
 ---
 
 ### What I'm working on
-* **C.O.R.E. Lab:** Working as a research intern designing and developing user experience web interfaces like the *Heads Up* website.
-* **Campus Leadership:** Mentoring incoming students as a CS Bridge TA, serving as a College of Science Ambassador, and building with the InnovateHer development team.
+* **Minecraft Server Hosting Platform:** Working with Feenix Group to architect, prototype, and optimize a high-availability, scalable Minecraft server hosting platform.
+* **Robot Glockenspiel:** Integrating solenoid-driven actuation mechanisms to enable precise, autonomous triggering of individual notes during performance.
+* **Campus Leadership:** Mentoring incoming students as a CS Bridge/CS 180 TA, serving as a College of Science Ambassador, and building with the InnovateHer development team.
 * **Building Things:** Creating full-stack projects, computer vision tools, and interactive applications.
 ---
 
